@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Daniel, a lecturer at [HS Karlsruhe](https://www.h-ka.de) and CTO at [Exxeta AG](https://exxeta.com).
+
+## Contact me 📫
+
+Just reach out via [LinkedIn](https://www.linkedin.com/in/daniel-weisser/).
+
+
 <!--
 **weisserd/weisserd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
